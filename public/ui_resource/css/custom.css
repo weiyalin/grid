@@ -1,0 +1,21 @@
+
+.widget-header[class*="bg-"] .widget-caption, .widget-header[class*="bg-"] i {
+    color:gray;
+}
+
+.databox {
+    margin-bottom: 15px;
+}
+
+div.dataTables_filter label {
+    float: right;
+    margin-right: 70px;
+}
+
+textarea {
+    resize: none;
+}
+
+/*.avatar{*/
+    /*border-left:0px solid #ed4e2a*/
+/*}*/

@@ -1,0 +1,42 @@
+.navbar,
+.navbar .navbar-inner {
+    min-height: 85px;
+}
+
+.navbar .navbar-brand {
+    height: 45px;
+    padding-top: 20px;
+}
+
+.navbar .sidebar-collapse {
+    top: 30px;
+}
+
+.navbar .navbar-inner .navbar-header .navbar-account .account-area {
+    top: 20px;
+}
+
+.navbar .navbar-inner .navbar-header .navbar-account .setting {
+    top: 20px;
+}
+
+.page-sidebar .sidebar-menu a {
+    height: 55px;
+    line-height: 53px;
+    /*font-family: Microsoft YaHei, Helvitica, Verdana, Tohoma, Arial, san-serif;*/
+    font-family: "Lantinghei SC", "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", 微软雅黑, STHeiti, "WenQuanYi Micro Hei", SimSun, sans-serif;
+}
+
+.page-sidebar .sidebar-menu a .menu-expand{
+    top: 22px;
+}
+
+.navbar-account .account-area .login-area .avatar,.navbar-account .account-area .login-area .avatar img{
+    width: 24px !important;
+    height: 24px !important;
+    margin-right:6px !important;
+}
+
+.breadcrumb>li:nth-child(2):before{
+    content: " " !important;
+}
